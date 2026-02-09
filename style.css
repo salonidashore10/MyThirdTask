@@ -26,7 +26,7 @@ body{
 }
 #Logo{
     margin-left: 15px;
-    margin-right: 40%;
+    margin-right: auto;
     font-size: 30px;
 }
 #header a{
@@ -338,3 +338,4 @@ button{
         padding: 30px 20px;
     }
 }
+
