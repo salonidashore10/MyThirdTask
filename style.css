@@ -32,7 +32,7 @@ body{
 #header a{
     margin-top: 5px;
     font-family: 'Poppins', sans-serif;
-    margin-right: 20px;
+    margin-right: auto;
     color: white;
     text-decoration: none;
 }
@@ -338,4 +338,5 @@ button{
         padding: 30px 20px;
     }
 }
+
 
