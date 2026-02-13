@@ -13,12 +13,12 @@ body{
     width: 100%;
     font-size: 16px;
     color: white;
-    padding-top: 100px;
+    /* padding-top: 100px; */
 }
-section {
+/* section {
     scroll-margin-top: 120px;
-}
-/* #header{
+} */
+#header{
     display: flex;
     padding: 20px;
     height: 70px;
@@ -27,8 +27,8 @@ section {
     color: white;
     margin-top: 0%;
     position: fixed;
-} */
-#header {
+}
+/* #header {
     display: flex;
     padding: 20px;
     height: 70px;
@@ -39,7 +39,7 @@ section {
     top: 0;
     left: 0;
     z-index: 1000;
-}
+} */
 
 #Logo{
     margin-left: 15px;
@@ -355,6 +355,7 @@ button{
         padding: 30px 20px;
     }
 }
+
 
 
 
