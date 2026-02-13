@@ -16,7 +16,7 @@ body{
     padding-top: 70px;
 }
 section {
-    scroll-margin-top: 90px;
+    scroll-margin-top: 110px;
 }
 /* #header{
     display: flex;
@@ -355,6 +355,7 @@ button{
         padding: 30px 20px;
     }
 }
+
 
 
 
