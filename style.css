@@ -14,13 +14,13 @@ body{
     font-size: 16px;
     color: white;
 }
-/* section {
+section {
     scroll-margin-top: 90px;
-} */
+}
 
 @media (max-width: 768px) {
     body {
-        padding-top: 120px;
+        padding-top: 20px;
     }
 }
 #header{
@@ -347,6 +347,7 @@ button{
         padding: 30px 20px;
     }
 }
+
 
 
 
